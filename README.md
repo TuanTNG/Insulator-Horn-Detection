@@ -1,6 +1,6 @@
 # Insulator-Horn Detection
 
-This repo is created to describe the project Knot Segmentation, conducted from Jul. 2020 to Aug. 2020, between [CyberCore AI](https://cybercore.co.jp/) and [TerraDrone](https://www.terra-drone.net/global/) <br/>
+This repo is created to describe the project Knot Segmentation, conducted from Oct. 2020 to Nov. 2020, between [CyberCore AI](https://cybercore.co.jp/) and [TerraDrone](https://www.terra-drone.net/global/) <br/>
 The code is belongs into CyberCore AI.
 ## Requirements <br/>
 Detect Insulator and Horn (image bellow) <br/>
