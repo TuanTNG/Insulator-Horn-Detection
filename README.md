@@ -1,7 +1,7 @@
 # Insulator-Horn Detection
 
 This repo is created to describe the project `Terra Drone`, conducted from Oct. 2020 to Nov. 2020, between [CyberCore AI](https://cybercore.co.jp/) and [TerraDrone](https://www.terra-drone.net/global/) <br/>
-The code is belongs into CyberCore AI.
+The code belongs to CyberCore AI.
 ## Requirements <br/>
 Detect Insulator and Horn (image bellow) <br/>
 <p float="left">
