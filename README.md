@@ -5,7 +5,7 @@ The code is belongs into CyberCore AI.
 ## Requirements <br/>
 Detect Insulator and Horn (image bellow) <br/>
 <p float="left">
-  <img src="imgs/requirement.jpg" width="650" /> 
+  <img src="imgs/requirement.jpg" width="800" /> 
 </p>
 
 ## Role
